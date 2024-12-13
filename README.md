@@ -24,9 +24,9 @@ Backend Development: Designing efficient APIs and managing robust databases.
 
 [Signature Detection Vision Model](https://github.com/pogarla23/automation-anywhere-visionmodel.git): An object detection model deployed on a Streamlit application to identify and localize signatures and stamps in business documents and application screenshots.
 
-[Sign Language Recognition Application](https://github.com/INITBU1LD/BUILD_SignLanguage.git): 
+[Sign Language Recognition Application](https://github.com/INITBU1LD/BUILD_SignLanguage.git): A Python web app that uses a multi-headed CNN and LSTM architecture to convert gestures to captions in real-time.
 
-[Notify](https://github.com/redhatgamer/Notify.git): 
+[Notify](https://github.com/redhatgamer/Notify.git): A notetaking and to-do list desktop application using HTML, CSS, JavaScript, and Electron.js.
 
 # Let's Connect
 
